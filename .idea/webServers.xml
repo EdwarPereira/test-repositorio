@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3aad1711-7cf8-483a-85a5-057ad81f8179" name="250" url="http://192.168.7.250">
+        <fileTransfer host="192.168.7.250" port="22" rootFolder="/opt/Globalsat/protocolo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
